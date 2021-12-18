@@ -1,0 +1,206 @@
+2021-12-17 16:02:29,877 - JobManager - INFO - job 202112171602298743291 added successfully
+2021-12-17 16:07:07,067 - FlServer - INFO - Aggregator started
+2021-12-17 16:07:35,044 - TrainerController - INFO - searching for new jobs...
+2021-12-17 16:07:35,046 - TrainStandloneNormalStrategy - INFO - load D:\Python\PycharmProjects\pflttt\res\models\models_202112171602298743291\tmp_aggregate_pars\avg_pars_0 parameters
+2021-12-17 16:07:35,051 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 is training, Aggregator strategy: fed_avg
+2021-12-17 16:07:42,696 - TrainStandloneNormalStrategy - INFO - train_loss: 2.3414855003356934
+2021-12-17 16:07:43,369 - TrainStandloneNormalStrategy - INFO - train_loss: 0.343698650598526
+2021-12-17 16:07:44,039 - TrainStandloneNormalStrategy - INFO - train_loss: 0.24012741446495056
+2021-12-17 16:07:44,725 - TrainStandloneNormalStrategy - INFO - train_loss: 0.05077730491757393
+2021-12-17 16:07:45,394 - TrainStandloneNormalStrategy - INFO - train_loss: 0.23506568372249603
+2021-12-17 16:07:46,063 - TrainStandloneNormalStrategy - INFO - train_loss: 0.04727308079600334
+2021-12-17 16:07:46,725 - TrainStandloneNormalStrategy - INFO - train_loss: 0.06970850378274918
+2021-12-17 16:07:47,385 - TrainStandloneNormalStrategy - INFO - train_loss: 0.1345701366662979
+2021-12-17 16:07:48,049 - TrainStandloneNormalStrategy - INFO - train_loss: 0.20146140456199646
+2021-12-17 16:07:48,715 - TrainStandloneNormalStrategy - INFO - train_loss: 0.21830160915851593
+2021-12-17 16:07:50,128 - TrainStandloneNormalStrategy - INFO - train_loss: 0.054969239979982376
+2021-12-17 16:07:50,807 - TrainStandloneNormalStrategy - INFO - train_loss: 0.07765214145183563
+2021-12-17 16:07:51,476 - TrainStandloneNormalStrategy - INFO - train_loss: 0.15442989766597748
+2021-12-17 16:07:52,169 - TrainStandloneNormalStrategy - INFO - train_loss: 0.2296990305185318
+2021-12-17 16:07:52,838 - TrainStandloneNormalStrategy - INFO - train_loss: 0.014794993214309216
+2021-12-17 16:07:53,504 - TrainStandloneNormalStrategy - INFO - train_loss: 0.023929011076688766
+2021-12-17 16:07:54,170 - TrainStandloneNormalStrategy - INFO - train_loss: 0.014962510205805302
+2021-12-17 16:07:54,835 - TrainStandloneNormalStrategy - INFO - train_loss: 0.013675020076334476
+2021-12-17 16:07:55,508 - TrainStandloneNormalStrategy - INFO - train_loss: 0.12862536311149597
+2021-12-17 16:07:56,176 - TrainStandloneNormalStrategy - INFO - train_loss: 0.25153210759162903
+2021-12-17 16:07:57,481 - TrainStandloneNormalStrategy - INFO - train_loss: 0.006815683096647263
+2021-12-17 16:07:58,152 - TrainStandloneNormalStrategy - INFO - train_loss: 0.018825069069862366
+2021-12-17 16:07:58,819 - TrainStandloneNormalStrategy - INFO - train_loss: 0.016197122633457184
+2021-12-17 16:07:59,506 - TrainStandloneNormalStrategy - INFO - train_loss: 0.019150668755173683
+2021-12-17 16:08:00,171 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0023968620225787163
+2021-12-17 16:08:00,834 - TrainStandloneNormalStrategy - INFO - train_loss: 0.004803000949323177
+2021-12-17 16:08:01,496 - TrainStandloneNormalStrategy - INFO - train_loss: 0.009604165330529213
+2021-12-17 16:08:02,155 - TrainStandloneNormalStrategy - INFO - train_loss: 0.017813289538025856
+2021-12-17 16:08:02,814 - TrainStandloneNormalStrategy - INFO - train_loss: 0.14377908408641815
+2021-12-17 16:08:03,480 - TrainStandloneNormalStrategy - INFO - train_loss: 0.03388865292072296
+2021-12-17 16:08:04,782 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0049273231998085976
+2021-12-17 16:08:05,451 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0841977521777153
+2021-12-17 16:08:06,116 - TrainStandloneNormalStrategy - INFO - train_loss: 0.009882062673568726
+2021-12-17 16:08:06,797 - TrainStandloneNormalStrategy - INFO - train_loss: 0.002091256668791175
+2021-12-17 16:08:07,460 - TrainStandloneNormalStrategy - INFO - train_loss: 0.005390079692006111
+2021-12-17 16:08:08,124 - TrainStandloneNormalStrategy - INFO - train_loss: 0.17417769134044647
+2021-12-17 16:08:08,783 - TrainStandloneNormalStrategy - INFO - train_loss: 0.006795987486839294
+2021-12-17 16:08:09,443 - TrainStandloneNormalStrategy - INFO - train_loss: 0.06147165596485138
+2021-12-17 16:08:10,106 - TrainStandloneNormalStrategy - INFO - train_loss: 0.002668158384039998
+2021-12-17 16:08:10,766 - TrainStandloneNormalStrategy - INFO - train_loss: 0.1237993836402893
+2021-12-17 16:08:12,070 - TrainStandloneNormalStrategy - INFO - train_loss: 0.007201737258583307
+2021-12-17 16:08:12,745 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0004921493236906826
+2021-12-17 16:08:13,411 - TrainStandloneNormalStrategy - INFO - train_loss: 0.004303852096199989
+2021-12-17 16:08:14,099 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0005378405912779272
+2021-12-17 16:08:14,769 - TrainStandloneNormalStrategy - INFO - train_loss: 0.07112020999193192
+2021-12-17 16:08:15,433 - TrainStandloneNormalStrategy - INFO - train_loss: 0.000243856935412623
+2021-12-17 16:08:16,097 - TrainStandloneNormalStrategy - INFO - train_loss: 0.001453193137422204
+2021-12-17 16:08:16,761 - TrainStandloneNormalStrategy - INFO - train_loss: 0.012724020518362522
+2021-12-17 16:08:17,427 - TrainStandloneNormalStrategy - INFO - train_loss: 0.004591307137161493
+2021-12-17 16:08:18,089 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0006713966140523553
+2021-12-17 16:08:18,463 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 1th train accuracy: 0.99155
+2021-12-17 16:08:22,276 - FedAvgAggregator - INFO - Aggregating......
+2021-12-17 16:08:23,392 - TrainStandloneNormalStrategy - INFO - load D:\Python\PycharmProjects\pflttt\res\models\models_202112171602298743291\tmp_aggregate_pars\avg_pars_1 parameters
+2021-12-17 16:08:23,395 - FedAvgAggregator - INFO - job: 202112171602298743291 the 1th round parameters aggregated successfully!
+2021-12-17 16:08:23,422 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 is training, Aggregator strategy: fed_avg
+2021-12-17 16:08:24,664 - TrainStandloneNormalStrategy - INFO - train_loss: 0.020379843190312386
+2021-12-17 16:08:25,344 - TrainStandloneNormalStrategy - INFO - train_loss: 0.009969287551939487
+2021-12-17 16:08:26,017 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0069313873536884785
+2021-12-17 16:08:26,706 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0048322430811822414
+2021-12-17 16:08:27,377 - TrainStandloneNormalStrategy - INFO - train_loss: 0.004789780825376511
+2021-12-17 16:08:28,045 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0005708920070901513
+2021-12-17 16:08:28,711 - TrainStandloneNormalStrategy - INFO - train_loss: 6.77320349495858e-05
+2021-12-17 16:08:29,379 - TrainStandloneNormalStrategy - INFO - train_loss: 0.029095066711306572
+2021-12-17 16:08:30,044 - TrainStandloneNormalStrategy - INFO - train_loss: 0.015284841880202293
+2021-12-17 16:08:30,711 - TrainStandloneNormalStrategy - INFO - train_loss: 0.025286056101322174
+2021-12-17 16:08:32,002 - TrainStandloneNormalStrategy - INFO - train_loss: 0.04476097971200943
+2021-12-17 16:08:32,682 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0015097020659595728
+2021-12-17 16:08:33,356 - TrainStandloneNormalStrategy - INFO - train_loss: 0.003321389900520444
+2021-12-17 16:08:34,043 - TrainStandloneNormalStrategy - INFO - train_loss: 0.19385720789432526
+2021-12-17 16:08:34,716 - TrainStandloneNormalStrategy - INFO - train_loss: 0.009832318872213364
+2021-12-17 16:08:35,385 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0027036855462938547
+2021-12-17 16:08:36,053 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0009554431890137494
+2021-12-17 16:08:36,721 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0007395232678391039
+2021-12-17 16:08:37,386 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0062177651561796665
+2021-12-17 16:08:38,051 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0019834747072309256
+2021-12-17 16:08:39,358 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0047860536724328995
+2021-12-17 16:08:40,034 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0020184521563351154
+2021-12-17 16:08:40,708 - TrainStandloneNormalStrategy - INFO - train_loss: 0.06999793648719788
+2021-12-17 16:08:41,400 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0014245545025914907
+2021-12-17 16:08:42,067 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00022438053565565497
+2021-12-17 16:08:42,749 - TrainStandloneNormalStrategy - INFO - train_loss: 0.004331274423748255
+2021-12-17 16:08:43,440 - TrainStandloneNormalStrategy - INFO - train_loss: 0.03869735449552536
+2021-12-17 16:08:44,129 - TrainStandloneNormalStrategy - INFO - train_loss: 0.07791086286306381
+2021-12-17 16:08:44,820 - TrainStandloneNormalStrategy - INFO - train_loss: 0.002233289647847414
+2021-12-17 16:08:45,508 - TrainStandloneNormalStrategy - INFO - train_loss: 0.010053468868136406
+2021-12-17 16:08:46,825 - TrainStandloneNormalStrategy - INFO - train_loss: 0.01363765262067318
+2021-12-17 16:08:47,500 - TrainStandloneNormalStrategy - INFO - train_loss: 0.010301219299435616
+2021-12-17 16:08:48,168 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0015049736248329282
+2021-12-17 16:08:48,857 - TrainStandloneNormalStrategy - INFO - train_loss: 0.004851728677749634
+2021-12-17 16:08:49,520 - TrainStandloneNormalStrategy - INFO - train_loss: 0.02171136997640133
+2021-12-17 16:08:50,181 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0014958453830331564
+2021-12-17 16:08:50,847 - TrainStandloneNormalStrategy - INFO - train_loss: 0.10212607681751251
+2021-12-17 16:08:51,511 - TrainStandloneNormalStrategy - INFO - train_loss: 0.005320703145116568
+2021-12-17 16:08:52,234 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0010632167104631662
+2021-12-17 16:08:53,052 - TrainStandloneNormalStrategy - INFO - train_loss: 0.04605485498905182
+2021-12-17 16:08:54,434 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00066131551284343
+2021-12-17 16:08:55,106 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0016441864427179098
+2021-12-17 16:08:55,776 - TrainStandloneNormalStrategy - INFO - train_loss: 0.005563479848206043
+2021-12-17 16:08:56,470 - TrainStandloneNormalStrategy - INFO - train_loss: 0.000650208443403244
+2021-12-17 16:08:57,239 - TrainStandloneNormalStrategy - INFO - train_loss: 0.008099743165075779
+2021-12-17 16:08:58,041 - TrainStandloneNormalStrategy - INFO - train_loss: 0.005534795578569174
+2021-12-17 16:08:58,851 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0006743485573679209
+2021-12-17 16:08:59,635 - TrainStandloneNormalStrategy - INFO - train_loss: 3.959920286433771e-05
+2021-12-17 16:09:00,414 - TrainStandloneNormalStrategy - INFO - train_loss: 0.004968146327883005
+2021-12-17 16:09:01,196 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0023200279101729393
+2021-12-17 16:09:01,624 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 2th train accuracy: 0.9964333333333333
+2021-12-17 16:09:03,480 - FedAvgAggregator - INFO - Aggregating......
+2021-12-17 16:09:03,480 - TrainStandloneNormalStrategy - INFO - load D:\Python\PycharmProjects\pflttt\res\models\models_202112171602298743291\tmp_aggregate_pars\avg_pars_2 parameters
+2021-12-17 16:09:03,484 - FedAvgAggregator - INFO - job: 202112171602298743291 the 2th round parameters aggregated successfully!
+2021-12-17 16:09:03,495 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 is training, Aggregator strategy: fed_avg
+2021-12-17 16:09:04,423 - TrainStandloneNormalStrategy - INFO - train_loss: 0.035604652017354965
+2021-12-17 16:09:05,093 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0002659823512658477
+2021-12-17 16:09:05,756 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0017986706225201488
+2021-12-17 16:09:06,441 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0037117681931704283
+2021-12-17 16:09:07,209 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0037330996710807085
+2021-12-17 16:09:08,008 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0003136162122245878
+2021-12-17 16:09:08,801 - TrainStandloneNormalStrategy - INFO - train_loss: 7.706345058977604e-05
+2021-12-17 16:09:09,579 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0006195375462993979
+2021-12-17 16:09:10,366 - TrainStandloneNormalStrategy - INFO - train_loss: 0.015367303974926472
+2021-12-17 16:09:11,155 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00016948369739111513
+2021-12-17 16:09:12,527 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00211174413561821
+2021-12-17 16:09:13,203 - TrainStandloneNormalStrategy - INFO - train_loss: 3.505514541757293e-05
+2021-12-17 16:09:13,877 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0013909348053857684
+2021-12-17 16:09:14,574 - TrainStandloneNormalStrategy - INFO - train_loss: 0.000757225148845464
+2021-12-17 16:09:15,341 - TrainStandloneNormalStrategy - INFO - train_loss: 0.010449565015733242
+2021-12-17 16:09:16,139 - TrainStandloneNormalStrategy - INFO - train_loss: 8.828959835227579e-05
+2021-12-17 16:09:16,926 - TrainStandloneNormalStrategy - INFO - train_loss: 0.04196072742342949
+2021-12-17 16:09:17,714 - TrainStandloneNormalStrategy - INFO - train_loss: 5.2668499847641215e-05
+2021-12-17 16:09:18,512 - TrainStandloneNormalStrategy - INFO - train_loss: 0.03992723301053047
+2021-12-17 16:09:19,292 - TrainStandloneNormalStrategy - INFO - train_loss: 0.011624490842223167
+2021-12-17 16:09:20,643 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0005909951869398355
+2021-12-17 16:09:21,311 - TrainStandloneNormalStrategy - INFO - train_loss: 0.02109302580356598
+2021-12-17 16:09:21,982 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0010350662050768733
+2021-12-17 16:09:22,673 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0031860044691711664
+2021-12-17 16:09:23,446 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0016930813435465097
+2021-12-17 16:09:24,220 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0014742304338142276
+2021-12-17 16:09:25,010 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0006308303563855588
+2021-12-17 16:09:25,782 - TrainStandloneNormalStrategy - INFO - train_loss: 0.007249108515679836
+2021-12-17 16:09:26,556 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0008172411471605301
+2021-12-17 16:09:27,355 - TrainStandloneNormalStrategy - INFO - train_loss: 0.001556313131004572
+2021-12-17 16:09:28,741 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0038761403411626816
+2021-12-17 16:09:29,421 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0009174707811325788
+2021-12-17 16:09:30,141 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00037297175731509924
+2021-12-17 16:09:30,860 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0006653722375631332
+2021-12-17 16:09:31,529 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0007002379279583693
+2021-12-17 16:09:32,197 - TrainStandloneNormalStrategy - INFO - train_loss: 0.003873333800584078
+2021-12-17 16:09:32,864 - TrainStandloneNormalStrategy - INFO - train_loss: 7.127175922505558e-05
+2021-12-17 16:09:33,527 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0009132724953815341
+2021-12-17 16:09:34,192 - TrainStandloneNormalStrategy - INFO - train_loss: 0.010658174753189087
+2021-12-17 16:09:34,859 - TrainStandloneNormalStrategy - INFO - train_loss: 2.0657447748817503e-05
+2021-12-17 16:09:36,151 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0025704987347126007
+2021-12-17 16:09:36,830 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0005752126453444362
+2021-12-17 16:09:37,498 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0007739402935840189
+2021-12-17 16:09:38,192 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0003986953815910965
+2021-12-17 16:09:38,858 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00044452367001213133
+2021-12-17 16:09:39,527 - TrainStandloneNormalStrategy - INFO - train_loss: 0.0001775982091203332
+2021-12-17 16:09:40,194 - TrainStandloneNormalStrategy - INFO - train_loss: 0.02927624061703682
+2021-12-17 16:09:40,858 - TrainStandloneNormalStrategy - INFO - train_loss: 6.150963599793613e-05
+2021-12-17 16:09:41,521 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00013638271775562316
+2021-12-17 16:09:42,186 - TrainStandloneNormalStrategy - INFO - train_loss: 0.22254279255867004
+2021-12-17 16:09:42,559 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 3th train accuracy: 0.9986
+2021-12-17 16:09:42,560 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 completed
+2021-12-17 16:09:43,563 - FedAvgAggregator - INFO - Aggregating......
+2021-12-17 16:09:43,566 - FedAvgAggregator - INFO - job: 202112171602298743291 the 3th round parameters aggregated successfully!
+2021-12-17 16:09:43,577 - FedAvgAggregator - INFO - job 202112171602298743291 save final aggregated parameters successfully!
+2021-12-17 16:44:27,981 - JobManager - INFO - job 202112171644279784551 added successfully
+2021-12-17 16:45:12,504 - JobManager - INFO - job 202112171645125013921 added successfully
+2021-12-17 16:45:40,695 - JobManager - INFO - job 202112171645406925101 added successfully
+2021-12-17 16:46:00,861 - JobManager - INFO - job 202112171646008545081 added successfully
+2021-12-17 16:46:14,493 - JobManager - INFO - job 202112171646144904481 added successfully
+2021-12-17 16:51:59,716 - JobManager - INFO - job 202112171651597130611 added successfully
+2021-12-17 17:04:47,043 - JobManager - INFO - job 202112171704470411071 added successfully
+2021-12-17 17:05:11,043 - FlServer - INFO - Aggregator started
+2021-12-17 17:05:12,255 - FedAvgAggregator - INFO - Aggregating......
+2021-12-17 17:05:13,301 - FedAvgAggregator - INFO - job: 202112171602298743291 the 3th round parameters aggregated successfully!
+2021-12-17 17:05:13,312 - FedAvgAggregator - INFO - job 202112171602298743291 save final aggregated parameters successfully!
+2021-12-17 17:05:44,777 - TrainerController - INFO - searching for new jobs...
+2021-12-17 17:05:44,782 - TrainStandloneNormalStrategy - INFO - load D:\Python\PycharmProjects\pflttt\res\models\models_202112171602298743291\tmp_aggregate_pars\avg_pars_3 parameters
+2021-12-17 17:05:44,905 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 is training, Aggregator strategy: fed_avg
+2021-12-17 17:06:16,709 - JobManager - INFO - job 202112171706167066321 added successfully
+2021-12-17 17:06:22,432 - FlServer - INFO - Aggregator started
+2021-12-17 17:06:23,639 - FedAvgAggregator - INFO - Aggregating......
+2021-12-17 17:06:24,713 - FedAvgAggregator - INFO - job: 202112171602298743291 the 3th round parameters aggregated successfully!
+2021-12-17 17:06:24,722 - FedAvgAggregator - INFO - job 202112171602298743291 save final aggregated parameters successfully!
+2021-12-17 17:06:35,334 - TrainerController - INFO - searching for new jobs...
+2021-12-17 17:06:35,339 - TrainStandloneNormalStrategy - INFO - load D:\Python\PycharmProjects\pflttt\res\models\models_202112171602298743291\tmp_aggregate_pars\avg_pars_3 parameters
+2021-12-17 17:06:35,429 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 is training, Aggregator strategy: fed_avg
+2021-12-17 17:11:32,360 - JobManager - INFO - job 202112171711323589201 added successfully
+2021-12-17 17:11:43,887 - FlServer - INFO - Aggregator started
+2021-12-17 17:11:45,090 - FedAvgAggregator - INFO - Aggregating......
+2021-12-17 17:11:46,134 - FedAvgAggregator - INFO - job: 202112171602298743291 the 3th round parameters aggregated successfully!
+2021-12-17 17:11:46,143 - FedAvgAggregator - INFO - job 202112171602298743291 save final aggregated parameters successfully!
+2021-12-17 17:11:58,729 - TrainerController - INFO - searching for new jobs...
+2021-12-17 17:11:58,734 - TrainStandloneNormalStrategy - INFO - load D:\Python\PycharmProjects\pflttt\res\models\models_202112171602298743291\tmp_aggregate_pars\avg_pars_3 parameters
+2021-12-17 17:11:58,817 - TrainStandloneNormalStrategy - INFO - job_202112171602298743291 is training, Aggregator strategy: fed_avg
+2021-12-17 17:12:03,550 - TrainStandloneNormalStrategy - INFO - train_loss: 0.00710445549339056
+2021-12-17 17:12:56,227 - JobManager - INFO - job 202112171712562233571 added successfully
+2021-12-17 17:13:02,359 - FlServer - INFO - Aggregator started
+2021-12-17 17:13:02,469 - FedAvgAggregator - INFO - Aggregating......
+2021-12-17 17:13:03,579 - FedAvgAggregator - INFO - job: 202112171602298743291 the 3th round parameters aggregated successfully!
+2021-12-17 17:13:03,589 - FedAvgAggregator - INFO - job 202112171602298743291 save final aggregated parameters successfully!
